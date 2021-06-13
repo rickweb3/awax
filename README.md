@@ -1,3 +1,1 @@
-	https://api.github.com/repos/rikeprado/projeto-awax
-	
-	/github/repo-size/rikeprado/projeto-awax
+https://img.shields.io/github/repo-size/rikeprado/projeto-awax
