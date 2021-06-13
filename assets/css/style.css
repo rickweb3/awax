@@ -507,3 +507,16 @@ header {
 .section-testimonials .pointer.active {
   background-color: #b28756;
 }
+
+.section-companies {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.section-companies--area {
+  display: flex;
+  align-items: center;
+}
+.section-company {
+  flex: 1;
+  text-align: center;
+}
