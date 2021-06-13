@@ -1,1 +1,1 @@
-	/github/repo-size/:user/https://github.com/rikeprado/projeto-awax
+	/github/repo-size/rikeprado/projeto-awax
