@@ -11,7 +11,7 @@
 
 
 
-<h4 align="center" style="color=green"> 
+<h4 align="center" style='color:green'> 
 	🚧  Awax - Concluído 🚀 🚧
 </h4>
 
