@@ -19,5 +19,5 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#-autor">Autor</a>
 </p>
