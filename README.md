@@ -38,6 +38,8 @@ Uma forma de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3** e
 
 ## ⚙️ Funcionalidades
 
+O site é responsivo e possue as seguintes seções:
+
 - [x] Home
 - [x] About us
 - [x] Services
