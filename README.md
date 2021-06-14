@@ -48,3 +48,10 @@ Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhec
 - [x] Contact us
 
 ---
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([HTML5](https://html.spec.whatwg.org/)  +  [CSS3](https://www.w3.org/Style/CSS/Overview.en.html))
