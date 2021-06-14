@@ -35,7 +35,7 @@ Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhec
 
 
 
-## ⚙️ Seçoes desenvolvidas no projeto
+## ⚙️ Seções desenvolvidas no projeto
 
 - [x] Home
 - [x] About us
