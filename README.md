@@ -5,7 +5,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rickweb3/projeto-awax">
   </a>
   <a href="https://rocketseat.com.br">
-    <img alt="Feito por Rick Web" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
+    <img alt="Feito por Rick Web" src="https://img.shields.io/badge/feito%20por-RickWeb-%237519C1">
   </a>
 </p>
 
