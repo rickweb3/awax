@@ -27,7 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Awax - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://blog.rocketseat.com.br/primeira-next-level-week/)
+Awax - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://www.behance.net/gallery/58301549/Free-Landing-Page)
 
 é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
 
