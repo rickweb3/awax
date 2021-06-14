@@ -35,7 +35,7 @@ Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhec
 
 
 
-## ⚙️ Funcionalidades
+## ⚙️ Seçoes desenvolvidas no projeto
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta
