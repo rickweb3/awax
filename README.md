@@ -12,7 +12,7 @@
 
 
 <h4 align="center"> 
-	🚧  <font color="green">Awax - Concluído 🚀 </font>🚧
+	🚧 Awax - Concluído 🚀 🚧
 </h4>
 
 <p align="center">
