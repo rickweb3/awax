@@ -10,6 +10,7 @@
 </p>
 
 
+
 <h4 align="center"> 
 	🚧  Awax - Concluído 🚀 🚧
 </h4>
@@ -23,8 +24,33 @@
 </p>
 
 
+
+
 ## 💻 Sobre o projeto
 
 Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
+
+---
+
+
+
+
+## ⚙️ Funcionalidades
+
+- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
+  - [x] uma imagem do ponto de coleta
+  - [x] nome da entidade, email e whatsapp
+  - [x] e o endereço para que ele possa aparecer no mapa
+  - [x] além de selecionar um ou mais ítens de coleta: 
+    - lâmpadas
+    - pilhas e baterias
+    - papéis e papelão
+    - resíduos eletrônicos
+    - resíduos orgânicos
+    - óleo de cozinha
+
+- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
+  - [x] navegar pelo mapa para ver as instituições cadastradas
+  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
 
 ---
