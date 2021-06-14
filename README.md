@@ -27,7 +27,9 @@
 
 ## 💻 Sobre o projeto
 
-Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
+Awax - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://blog.rocketseat.com.br/primeira-next-level-week/)
+
+é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
 
 ---
 
