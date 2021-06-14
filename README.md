@@ -29,7 +29,7 @@
 
 Awax - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://www.behance.net/gallery/58301549/Free-Landing-Page)
 
-é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
+Uma forma de colocar em prática os meus conhecimentos de HTML5 + CSS3 e poder compartilhar aqui no GitHub para toda a comunidade DEV!
 
 ---
 
