@@ -17,7 +17,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-secoes-desenvolvidas-no-projeto">Seções do site</a> • 
+ <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a>
 </p>
@@ -34,7 +34,7 @@ Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhec
 
 
 
-## ⚙️ Seções desenvolvidas no projeto
+## ⚙️ Funcionalidades (WebSite)
 
 - [x] Home
 - [x] About us
