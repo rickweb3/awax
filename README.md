@@ -21,3 +21,9 @@
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a>
 </p>
+
+
+## 💻 Sobre o projeto
+
+Awax - é um projeto desenvolvido com o intuito de colocar em prática os conhecimentos de HTML e CSS3.
+---
