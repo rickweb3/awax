@@ -67,7 +67,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://github.com/rickweb3/">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55119449" width="100px;" alt=""/>
  <br />
  <sub><b>Henrique Prado</b></sub></a> <a href="https://github.com/rickweb3/" title="GitHub">🚀
 </a>
