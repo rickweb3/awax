@@ -4,7 +4,7 @@
   <a href="https://github.com/rickweb3/projeto-awax/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rickweb3/projeto-awax">
   </a>
-  <a href="https://rocketseat.com.br">
+  <a href="">
     <img alt="Feito por Rick Web" src="https://img.shields.io/badge/desenvolvido%20por-RickWeb-%237519C1">
   </a>
 </p>
