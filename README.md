@@ -84,7 +84,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## :pencil: Licença
 
-Não se aplica.
+[MIT](http:
 
 ---
 
