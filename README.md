@@ -27,9 +27,8 @@
 
 ## 💻 Sobre o projeto
 
-**Awax** - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://www.behance.net/gallery/58301549/Free-Landing-Page) desenvolvido pelo **Digital Product Designer Alex Bukin**...
+Projeto prático desenvolvido com o intuito de colocar em prática meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE**
 
-Uma forma de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
 
 ---
 
@@ -79,12 +78,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-henrique.devweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.devweb@gmail.com)](mailto:henrique.devweb@gmail.com)
 
 ---
-
-
-
-## :pencil: Licença
-
-[MIT](http:
-
----
-
