@@ -36,7 +36,7 @@ Uma forma de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + R
 
 
 
-## ⚙️ Funcionalidades
+## ⚙️ Features
 
 O site é **responsivo** e possue as seguintes seções:
 
@@ -64,13 +64,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-##  Licença
-
-Não se aplica.
-
----
-
-
 
 ## 🦸 Contate-me
 
@@ -84,6 +77,14 @@ Não se aplica.
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickweb)](https://www.linkedin.com/in/rickweb)
 [![Gmail Badge](https://img.shields.io/badge/-henrique.devweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.devweb@gmail.com)](mailto:henrique.devweb@gmail.com)
+
+---
+
+
+
+## :pencil: Licença
+
+Não se aplica.
 
 ---
 
