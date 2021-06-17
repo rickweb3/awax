@@ -18,7 +18,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  [Funcionalidades ] (#funcionalidades)
- <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licenca">Licença</a> 
 </p>
