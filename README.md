@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Licença
 
-Não se aplica
+Não se aplica.
 
 ---
 
