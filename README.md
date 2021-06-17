@@ -29,7 +29,6 @@
 
 Projeto prático desenvolvido com o intuito de colocar em prática meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE**
 
-
 ---
 
 
