@@ -19,7 +19,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-licenca">Licença</a> 
+ <a href="#licenca">Licença</a> 
 </p>
 
 
