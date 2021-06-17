@@ -70,3 +70,20 @@ Não se aplica.
 
 ---
 
+
+
+## 🦸 Contate-me
+
+<a href="https://github.com/rickweb3/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55119449" width="100px;" alt=""/>
+ <br />
+ <sub><b>Henrique Prado</b></sub></a> <a href="https://github.com/rickweb3/" title="GitHub">🚀
+</a>
+ <br />
+ 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickweb)](https://www.linkedin.com/in/rickweb)
+[![Gmail Badge](https://img.shields.io/badge/-henrique.devweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.devweb@gmail.com)](mailto:henrique.devweb@gmail.com)
+
+---
+
