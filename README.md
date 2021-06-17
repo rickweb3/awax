@@ -19,7 +19,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-features">Features</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-licenca">Licença</a> 
+ <a href="#-dev">Dev</a> 
 </p>
 
 
@@ -63,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## 🦸 Contate-me
+## 🦸 Dev
 
 <a href="https://github.com/rickweb3/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55119449" width="100px;" alt=""/>
