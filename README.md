@@ -27,7 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto prático desenvolvido com o intuito de colocar em prática meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE**
+Projeto prático de estudo, realizado durante o estudo do curso de HTML + CSS3
 
 ---
 
