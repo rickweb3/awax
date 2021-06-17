@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## ![licenciamento (1)](https://user-images.githubusercontent.com/55119449/122397316-3c8a6180-cf4f-11eb-8327-f5a524c549e1.png) Licença
+##  Licença
 
 Não se aplica.
 
