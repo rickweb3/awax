@@ -15,14 +15,6 @@
 	🚧 Awax - Concluído 🚀 🚧
 </h4>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-features">Features</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-dev">Dev</a> 
-</p>
-
-
 
 
 ## 💻 Sobre o projeto
