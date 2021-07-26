@@ -17,8 +17,15 @@
 
 
 
-## 💻 Sobre o projeto
+## Sobre o projeto
 
 Projeto prático de estudo desenvolvido com o intuito de aplicar meus conhecimentos de **HTML5, CSS3 e Responsividade**
+
+---
+
+
+## Projeto desenvolvido
+
+![Screenshot](overview_complete_awax.png)
 
 ---
